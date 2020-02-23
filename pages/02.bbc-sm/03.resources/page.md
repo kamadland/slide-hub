@@ -28,6 +28,9 @@ visible: true
 - [Young Life](https://www.younglife.org/About/Pages/MissionandValues.aspx)
 - [Apologetics Canada](https://apologeticscanada.com/)
 
+### Strategic Goals
+- [Wikipedia](https://en.wikipedia.org/wiki/SMART_criteria)
+
 ### Padlets
 - [SWOT](https://padlet.com/kamadland/bbcswot)
 - [mybestlife](https://padlet.com/kamadland/bestlife)
