@@ -62,7 +62,7 @@ Who are we serving?
 
 [.text: alignment(center)]
 
-# /#mybestlife
+# mybestlife
 
 <a class="embedly-card" data-card-controls="0" href="https://padlet.com/kamadland/bestlife">#mybestlife</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
@@ -71,7 +71,7 @@ Who are we serving?
 
 [.text: alignment(center)]
 
-# /#FML
+# FML
 
 <a class="embedly-card" data-card-controls="0" href="https://padlet.com/kamadland/fml">#FML</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
@@ -83,6 +83,14 @@ Who are we serving?
 # Mission: 
 
 To glorify God by making Disciples of Jesus Christ
+
+---
+
+[.text: alignment(center)]
+
+# Vision: 
+
+Through the guidance of the Holy Spirit, we seek to reach out cross-culturally, winning, equipping, and empowering people for ministry.
 
 ---
 
