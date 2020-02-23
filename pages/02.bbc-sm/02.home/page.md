@@ -7,4 +7,4 @@ hide_git_sync_repo_link: false
 visible: true
 ---
 
-[presentation="lf2020/presentations/placeholder-slides"]
+[presentation="bbc-sm/presentations/placeholder-slides"]
