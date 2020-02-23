@@ -62,7 +62,7 @@ Who are we serving?
 
 [.text: alignment(center)]
 
-# #mybestlife
+# /#mybestlife
 
 <a class="embedly-card" data-card-controls="0" href="https://padlet.com/kamadland/bestlife">#mybestlife</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
@@ -71,7 +71,7 @@ Who are we serving?
 
 [.text: alignment(center)]
 
-# #FML
+# /#FML
 
 <a class="embedly-card" data-card-controls="0" href="https://padlet.com/kamadland/fml">#FML</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
@@ -79,6 +79,11 @@ Who are we serving?
 ---
 
 [.background-color: #FFFFFF]
+[.text: alignment(center)]
+
+# Mission: 
+
+To glorify God by making Disciples of Jesus Christ
 
 ![fit](https://getgrav-grav.netdna-ssl.com/user/pages/01.tour/_easy-to-use/001-dashboard.png)
 
