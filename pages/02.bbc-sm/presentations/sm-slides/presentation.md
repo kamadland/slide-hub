@@ -12,6 +12,8 @@ hide_git_sync_repo_link: false
 
 ---
 
+[.text: alignment(center)]
+
 # Demographics
 Who are we serving?
 - Hamilton
