@@ -78,8 +78,6 @@ Who are we serving?
 
 ---
 
-[.background-color: #FFFFFF]
-[.text: color(000000)]
 [.text: alignment(center)]
 
 # Mission: 
