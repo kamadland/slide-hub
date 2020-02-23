@@ -5,16 +5,58 @@ show_sidebar: true
 hide_git_sync_repo_link: false
 ---
 
-[.text: alignment(center)]
 
-# Using Grav as an Open Personal Publishing Platform
-
-### Placeholder Slides
-
-> “A work in progress. And the possibilities are endless.”
--- Elizabeth Eulberg
+# Demographics
+Who are we serving?
+- Hamilton
+- BBC
 
 ---
+
+[.text: alignment(center)]
+
+# Culture
+
+---
+[.text: alignment(center)]
+
+# SWOT
+
+---
+
+[.text: alignment(center)]
+
+# Strengths
+- what are we doing well?
+---
+
+[.text: alignment(center)]
+
+# Weaknesses
+
+---
+
+[.text: alignment(center)]
+
+# Opportunities
+
+---
+
+[.text: alignment(center)]
+
+# Threats
+- existing and potential activities or ideas that pose a threat to the ministry.
+- immediate & long-term
+
+
+---
+
+<a class="embedly-card" data-card-controls="0" href="https://padlet.com/kamadland/bbcswot">BBC SWOT</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+---
+
+[.text: alignment(center)]
 
 [.background-color: #FFFFFF]
 
