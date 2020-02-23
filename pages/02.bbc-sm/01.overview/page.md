@@ -15,11 +15,12 @@ visible: true
 * Clarify how we will get there.
 
 #### Session Description
-It is often too easy to fall into a pattern of behaviour that works against what we say we want to do in life and in ministry. This short session is intended to ensure that we don't fall into one of those patterns. This site will provide resources and some guideposts along the way as we think and share and define our direction.
+It is often too easy to fall into a pattern of behaviour that works against what we say we want to do in life and in ministry. This short session is intended to ensure that we don't fall into one of those patterns. This site will provide [resources](http://slides.thinkclearly.ca/bbc-sm/resources) and some guideposts along the way as we think and share and define our direction.
 
-### Who are we serving?
+### Who and where are we serving?
 
 ### SWOT
-- 4 groups
-- 1-2-4-All
-- 
+
+### Vision, Mission, & Values
+
+### Strategic Goals
