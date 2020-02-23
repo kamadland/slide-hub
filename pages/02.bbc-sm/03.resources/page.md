@@ -7,6 +7,9 @@ hide_git_sync_repo_link: false
 visible: true
 ---
 
+### Notes
+- [The Googles](https://docs.google.com/document/d/1-4UquvyL9V2qfA_DylUmirwQk3L4EcbUTbNC_RyvMlg/edit?usp=sharing)
+
 ### Demographics
 
 - [Whose land is it anyways?](https://native-land.ca/)
