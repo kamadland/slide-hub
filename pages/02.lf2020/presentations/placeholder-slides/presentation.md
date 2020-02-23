@@ -79,11 +79,14 @@ Who are we serving?
 ---
 
 [.background-color: #FFFFFF]
+[.text: color(000000)]
 [.text: alignment(center)]
 
 # Mission: 
 
 To glorify God by making Disciples of Jesus Christ
+
+---
 
 ![fit](https://getgrav-grav.netdna-ssl.com/user/pages/01.tour/_easy-to-use/001-dashboard.png)
 
