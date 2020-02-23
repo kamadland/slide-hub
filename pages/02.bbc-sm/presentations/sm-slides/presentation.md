@@ -61,10 +61,14 @@ Who are we serving?
 
 ---
 
+[.background-color: #FFFFFF]
+
 <a class="embedly-card" data-card-controls="0" href="https://padlet.com/kamadland/bbcswot">BBC SWOT</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ---
+
+[.background-color: #FFFFFF]
 
 [.text: alignment(center)]
 
@@ -74,6 +78,8 @@ Who are we serving?
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ---
+
+[.background-color: #FFFFFF]
 
 [.text: alignment(center)]
 
