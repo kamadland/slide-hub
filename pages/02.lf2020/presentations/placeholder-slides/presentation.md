@@ -5,7 +5,6 @@ show_sidebar: true
 hide_git_sync_repo_link: false
 ---
 
-
 # Demographics
 Who are we serving?
 - Hamilton
@@ -28,17 +27,22 @@ Who are we serving?
 
 # Strengths
 - what are we doing well?
+
+
 ---
 
 [.text: alignment(center)]
 
 # Weaknesses
+- What are we doing not-so-well?
+
 
 ---
 
 [.text: alignment(center)]
 
 # Opportunities
+- What could we be doing better?
 
 ---
 
@@ -57,6 +61,22 @@ Who are we serving?
 ---
 
 [.text: alignment(center)]
+
+# #mybestlife
+
+<a class="embedly-card" data-card-controls="0" href="https://padlet.com/kamadland/bestlife">#mybestlife</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+---
+
+[.text: alignment(center)]
+
+# #FML
+
+<a class="embedly-card" data-card-controls="0" href="https://padlet.com/kamadland/fml">#FML</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+---
 
 [.background-color: #FFFFFF]
 
