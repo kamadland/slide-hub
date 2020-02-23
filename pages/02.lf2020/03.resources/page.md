@@ -1,8 +1,9 @@
 ---
-title: 'Resources'
+title: Resources
 published: true
 visible: true
 ---
+
 # Workshop Resources
 
 * [Markdown](#markdown)
