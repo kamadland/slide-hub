@@ -28,3 +28,7 @@ visible: true
 - [Young Life](https://www.younglife.org/About/Pages/MissionandValues.aspx)
 - [Apologetics Canada](https://apologeticscanada.com/)
 
+### Padlets
+- [SWOT](https://padlet.com/kamadland/bbcswot)
+- [mybestlife](https://padlet.com/kamadland/bestlife)
+- [FML](https://padlet.com/kamadland/fml)
