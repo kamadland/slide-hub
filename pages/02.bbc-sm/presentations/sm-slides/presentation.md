@@ -23,6 +23,10 @@ Who are we serving?
 
 ---
 
+![](https://upload.wikimedia.org/wikipedia/commons/0/0b/SWOT_en.svg)
+
+---
+
 [.text: alignment(center)]
 
 # Strengths
