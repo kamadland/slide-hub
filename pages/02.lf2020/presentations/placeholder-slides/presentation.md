@@ -88,9 +88,24 @@ To glorify God by making Disciples of Jesus Christ
 
 [.text: alignment(center)]
 
+# Why do we exist?
+# What do you want to be remembered for?
+
+---
+
+[.text: alignment(center)]
+
 # Vision: 
 
 Through the guidance of the Holy Spirit, we seek to reach out cross-culturally, winning, equipping, and empowering people for ministry.
+
+---
+
+[.text: alignment(center)]
+
+# Coffee Cups
+
+Discipling people into God's story.
 
 ---
 
